@@ -56,3 +56,11 @@ input{
 i{
     cursor: pointer;
 }
+
+advertisement{
+    font-size:xx-small;
+}
+
+body{
+    background-color:lightgreen;
+}
