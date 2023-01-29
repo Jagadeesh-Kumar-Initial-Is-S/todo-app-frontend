@@ -1,3 +1,35 @@
+<hr/>
+
+# Brief
+
+Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
+
+<hr/>
+
+# Task 
+
+Task - Deployment practice .
+
+<hr/>
+
+# Front-end
+
+Front-end which is used is equal to ReactJS or React.js or React .
+
+<hr/>
+
+# Front-end Source code
+
+Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/todo-app-frontend .
+
+<hr/>
+
+# Front-end Deployed URL
+
+Front-end Deployed URL's link is equal to https://todo-app-frontend-beige.vercel.app/ .
+
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
