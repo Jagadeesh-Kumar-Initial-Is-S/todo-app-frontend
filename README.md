@@ -35,6 +35,7 @@ Front-end Deployed URL's link is equal to https://todo-app-frontend-beige.vercel
 ![image](https://user-images.githubusercontent.com/115778774/215329820-466b8bba-f96a-412a-95c7-7b4529f644a0.png)
 
 <hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
