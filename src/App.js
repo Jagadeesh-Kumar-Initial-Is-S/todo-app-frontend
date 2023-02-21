@@ -48,7 +48,7 @@ function App() {
   }
 
   return (
-    <><advertisement><center>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</center></advertisement><div className="App">
+    <div className="App">
       <div className="container">
         <h1>ToDo App</h1>
         <div className="top">
@@ -70,7 +70,7 @@ function App() {
         </div>
 
       </div>
-    </div><advertisement><center>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</center></advertisement></>
+    </div>
     
   );
 }

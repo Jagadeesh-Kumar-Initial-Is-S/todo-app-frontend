@@ -2,10 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Advertisement from './Advertisement';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Advertisement/>
     <App />
+    <Advertisement/>
   </React.StrictMode>,
   document.getElementById('root')
 );
